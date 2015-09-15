@@ -1,0 +1,6 @@
+c:\projects\marreco\pass\pass\bin\Debug\pass.exe.config
+c:\projects\marreco\pass\pass\obj\Debug\pass.csprojResolveAssemblyReference.cache
+c:\projects\marreco\pass\pass\bin\Debug\pass.exe
+c:\projects\marreco\pass\pass\bin\Debug\pass.pdb
+c:\projects\marreco\pass\pass\obj\Debug\pass.exe
+c:\projects\marreco\pass\pass\obj\Debug\pass.pdb
