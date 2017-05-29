@@ -21,6 +21,7 @@ namespace pass
             Registra(new GetPass(fileName));
             Registra(new ListPass(fileName));
             Registra(new DelPass(fileName));
+            Registra(new GenereatePass());
 
 
 

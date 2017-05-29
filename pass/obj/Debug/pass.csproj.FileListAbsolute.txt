@@ -4,3 +4,9 @@ c:\projects\marreco\pass\pass\bin\Debug\pass.exe
 c:\projects\marreco\pass\pass\bin\Debug\pass.pdb
 c:\projects\marreco\pass\pass\obj\Debug\pass.exe
 c:\projects\marreco\pass\pass\obj\Debug\pass.pdb
+C:\projetos\github\pass\pass\bin\Debug\pass.exe.config
+C:\projetos\github\pass\pass\obj\Debug\pass.exe
+C:\projetos\github\pass\pass\obj\Debug\pass.pdb
+C:\projetos\github\pass\pass\bin\Debug\pass.exe
+C:\projetos\github\pass\pass\bin\Debug\pass.pdb
+C:\projetos\github\pass\pass\obj\Debug\pass.csprojResolveAssemblyReference.cache
